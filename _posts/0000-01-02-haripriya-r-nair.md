@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Haripriya R Nair 
 Use the left arrow to go back!
